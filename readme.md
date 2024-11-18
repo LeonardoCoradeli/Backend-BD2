@@ -24,8 +24,8 @@ Antes de executar este projeto, certifique-se de ter os seguintes requisitos:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/deck-management-backend.git
-cd deck-management-backend
+git clone https://github.com/seu-usuario/Backend-BD2.git
+cd Backend-BD2
 ```
 
 ### 2. Configure um ambiente virtual (opcional, mas recomendado)
@@ -80,7 +80,7 @@ Essas páginas de documentação fornecem uma maneira interativa de explorar e t
 ## Estrutura do Projeto
 
 - `app/`
-  - `api/v1/endpoints/`: Contém definições de rotas para diferentes funcionalidades (ex.: cartas, decks, usuários).
+  - `api/v1/`: Contém definições de rotas para diferentes funcionalidades (ex.: cartas, decks, usuários).
   - `core/`: Configurações principais, incluindo configuração do banco de dados.
   - `services/`: Contém a lógica de negócios para lidar com diferentes operações.
   - `data/`: Repositórios para interações com o banco de dados.
@@ -125,8 +125,8 @@ Before running this project, ensure you have the following:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/deck-management-backend.git
-cd deck-management-backend
+git clone https://github.com/seu-usuario/Backend-BD2.git
+cd Backend-BD2
 ```
 
 ### 2. Set up a virtual environment (optional but recommended)
